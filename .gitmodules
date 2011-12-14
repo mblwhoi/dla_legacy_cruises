@@ -1,6 +1,6 @@
 [submodule "drupal_core"]
 	path = drupal_root
-	url = git://github.com/adorsk-whoi/drupal_core_symlinks.git
+	url = git://github.com/mblwhoi/drupal_core_symlinks.git
 [submodule "sites/all/themes/custom/dla_theme"]
 	path = sites/all/themes/custom/dla
-	url = git@github.com:adorsk-whoi/dla_theme.git
+	url = git@github.com:mblwhoi/dla_theme.git
